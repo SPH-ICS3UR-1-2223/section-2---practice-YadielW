@@ -3,9 +3,14 @@ public class ProblemSet2_1 {
         //Use 8 print statements to print a smiley face.
         //Your art will rely on only a single character, besides space, such as X or #.
         
-        
-        
-        
+        System.out.println("  xxxx  ");
+        System.out.println(" x    x ");
+        System.out.println("x x  x x");
+        System.out.println("x      x");
+        System.out.println("x x  x x");
+        System.out.println("x  xx  x");
+        System.out.println(" x    x ");
+        System.out.println("  xxxx  ");
         
         
         
